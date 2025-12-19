@@ -90,5 +90,3 @@ If you find this project useful:
 
 ---
 
-
-Just tell me 👍
